@@ -3,7 +3,7 @@ title: Set up training for your early career teachers
 ---
 
 $CTA
-Applies to England
+Applies to England 
 $CTA
 
 Early career teachers are entitled to 2 years of training based on the early career framework.
@@ -23,13 +23,13 @@ Induction tutors monitor and support your early career teachers.
 
 They also manage progress reviews and coordinate formal assessments.
 
-[Nominate an induction tutor]().
+[Nominate an induction tutor](/nominate-induction-tutor/).
 
 ## Choose your mentors
 
 Mentors ensure your early career teachers recieve a high quality induction.
 
-They need to meet regularly with their early career teachers to provide support and feedback.
+They meet regularly with early career teachers to provide support and feedback.
 
 [Choose your mentors]().
 
