@@ -41,7 +41,7 @@ Choose from the following training options:
 * deliver your own training using materials accredited by the Department for Education
 * design and deliver your own training based on the early career framework
 
-[Choose a training option]().
+[Choose a training option](/choose-training-option-early-career-teachers).
 
 ## Appoint an appropriate body
 

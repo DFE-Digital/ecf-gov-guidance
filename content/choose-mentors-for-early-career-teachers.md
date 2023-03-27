@@ -59,6 +59,17 @@ If you use a training provider to deliver your ECF-based training, mentors may b
 
 This is for professional development purposes and must not be used for formal assessment.
 
+## Registering mentors
+
+Your induction tutor needs to register mentors through the 'Manage training for early careers teachers' service.
+
+If your school is new to this service, [send your school a link to use the service](https://manage-training-for-early-career-teachers.education.gov.uk/nominations/resend-email).
+
+You'll be asked to nominate an induction tutor, who will then be given access to the service.
+
+Once set up, your induction tutor can [sign in to 'Manage training for early career teachers'](https://manage-training-for-early-career-teachers.education.gov.uk/) to register mentors.
+
+
 ## Handling mentors’ concerns
 
 If a mentor has concerns or difficulties, they should contact your school [induction tutor](nominate-induction-tutor).
