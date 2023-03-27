@@ -40,10 +40,11 @@ Induction tutors need report certain information about your early career program
 
 They do this using the 'Manage training for early careers teachers' service.
 
-If you've never registered an induction tutor before, request a link so you can nominate a new induction tutor.
+If your school is new to this service, [send your school a link to use the service](https://manage-training-for-early-career-teachers.education.gov.uk/nominations/resend-email).
 
-If you want to change to a new induction tutor, your current induction tutor can sign in to our service to nominate someone else to be the induction tutor. This will transfer access to your school’s account to the new induction tutor.
+You'll be asked to nominate an induction tutor, who will then be given access to the service.
 
+Once set up, your induction tutor can [sign in to 'Manage training for early career teachers'](https://manage-training-for-early-career-teachers.education.gov.uk/).
 
 
 
