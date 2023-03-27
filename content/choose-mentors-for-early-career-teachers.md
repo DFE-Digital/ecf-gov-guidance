@@ -59,7 +59,7 @@ If you use a training provider to deliver your ECF-based training, mentors may b
 
 This is for professional development purposes and must not be used for formal assessment.
 
-## Handling mentors’ concerns and difficulties
+## Handling mentors’ concerns
 
 If a mentor has concerns or difficulties, they should contact your school [induction tutor](nominate-induction-tutor).
 
