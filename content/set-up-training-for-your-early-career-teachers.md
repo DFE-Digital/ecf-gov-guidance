@@ -31,7 +31,7 @@ Mentors ensure your early career teachers recieve a high quality induction.
 
 They meet regularly with early career teachers to provide support and feedback.
 
-[Choose your mentors]().
+[Choose your mentors](/choose-mentors-for-early-career-teachers).
 
 ## Choose a training option
 
