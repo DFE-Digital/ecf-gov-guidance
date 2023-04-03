@@ -1,5 +1,7 @@
 ---
-title: Nominate an induction tutor for your early career teachers
+title: Make changes to early career training
+caption: Guidance
+lead: Guidance for schools on making changes to training based on the early career framework, part of induction for early career teachers.
 ---
 
 $CTA
@@ -7,44 +9,74 @@ Applies to England
 $CTA
 
 
-Induction tutors monitor and support your early career teachers.
+After you [choose a training option for your early career teachers](/choose-training-option-early-career-teachers), there may be occasions where you need to make changes.
 
-They manage progress reviews and coordinate formal assessments.
+Ensure any changes are right for your early career teachers and mentors.
 
-They're also the key point of contact with the Department for Education regarding your early career programme.
+Plan any changes for the end of a school year if possible.
 
-## Who to nominate
+## Change provider
 
-Choose someone who:
+If you have concerns regarding your training provider, discuss this directly with them.
 
-* holds qualified teacher status (QTS)
-* can assess early career teachers' progress against the teachers’ standards
+Let the provider know if you decide to end the partnership.
 
-Ideally you should choose someone who is not also a mentor for your early career teachers. The 2 roles have separate and different responsibilities.
+You'll receive an email from them confirming the end of the partnership.
 
-## What induction tuturs need to do
+Forward this on to the Department for Education at continuing-professional-development@digital.education.gov.uk. 
 
-They need to:
+Your provider will be removed from your '[Manage training for early career teachers]()' account.
 
-* carry out regular progress reviews
-* undertake 2 formal assessment meetings with early career teachers during the 2-year induction period - one midway through induction and one at the end
-* recognise when early action is needed if an early career teacher is experiencing difficulties
+Once you've instructed a new provider, your new provider will report the partnership to the Department for Education.
 
-Read more about the roles and responsibilities of an induction tutor in section 5 of the [statutory guidance for the induction for early career teachers](https://www.gov.uk/government/publications/induction-for-early-career-teachers-england).
+Your provider will be updated in your '[Manage training for early career teachers]()' account.
 
+This may take a few weeks.
 
+## Change delivery partner
 
-## Point of contact with the Department for Education
+If you have concerns regarding your delivery partner, discuss this directly with them.
 
-Induction tutors need report certain information about your early career programme to the Department for education. 
+If you decide to change to another delivery partner, confirm the change with your provider.
 
-They do this using the 'Manage training for early careers teachers' service.
+Your provider will report the change to the Department for Education. 
 
-If your school is new to this service, [send your school a link to use the service](https://manage-training-for-early-career-teachers.education.gov.uk/nominations/resend-email).
+Your delivery partner will be updated in your '[Manage training for early career teachers]()' account.
 
-You'll be asked to nominate an induction tutor, who will then be given access to the service.
+This may take a few weeks.
 
-Once set up, your induction tutor can [sign in to 'Manage training for early career teachers'](https://manage-training-for-early-career-teachers.education.gov.uk/).
+## Change training option
 
+### If you use a provider
+
+If you want to switch from using a training provider to another [training option](/choose-training-option-early-career-teachers), discuss this directly with your provider.
+
+Let the provider know if you decide to change training option.
+
+You'll receive an email from them confirming the end of the partnership.
+
+Forward this on to the Department for Education at continuing-professional-development@digital.education.gov.uk.
+
+You'll recieve an email from the Department for Education asking you to confirm your new training option.
+
+### If you use DfE-accredited materials
+
+Your early career teachers and mentors may lose their progress if you change materials.
+
+Email the Department for Education at continuing-professional-development@digital.education.gov.uk to:
+
+* change training materials
+* switch to using a training provider
+* report that you want to design and deliver your own training
+
+### If you design and deliver your own training
+
+You do not need to tell the Department for Education if you redesign your programme.
+
+Your [appropriate body]() will still fidelity check your programme to make sure it covers the full depth of the early career framework.
+
+To switch from your own training programme to another delivery method, sign in to the 'Manage training for early career teachers' service to report the change.
+
+You’ll need to add your early career teachers and mentors so that the Department for Education can check their eligibilty for funding.
 
 

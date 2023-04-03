@@ -1,5 +1,5 @@
 ---
-title: Set up training for your early career teachers
+title: Set up training for early career teachers
 caption: Guidance
 lead: Guidance for schools on setting up training based on the early career framework, part of induction for early career teachers.
 ---

@@ -9,11 +9,11 @@ Applies to England
 $CTA
 
 
-You can choose from the following training options for your ECF-based training.
+To set up training for your early career teachers, you need to choose a training option. 
 
 ^There are also other steps to [set up training for your early career teachers](/set-up-training-for-your-early-career-teachers).^
 
-[What to do if you need to make a change to your training option](/make-changes-to-early-career-training-programme).
+Avoid changing your training option part-way through induction. [How to make changes to early career training](/make-changes-to-early-career-training-programme).
 
 
 ## Option one: use a provider 
