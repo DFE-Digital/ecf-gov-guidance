@@ -1,7 +1,7 @@
 ---
 title: Nominate an induction tutor for your early career teachers
 caption: Guidance
-lead: Guidance for schools on training based on the early career framework, part of induction for early career teachers.
+lead: Guidance for schools on setting up training based on the early career framework, part of induction for early career teachers.
 ---
 
 $CTA

@@ -1,7 +1,7 @@
 ---
 title: Choose a training option for your early career teachers
 caption: Guidance
-lead: Guidance for schools on training based on the early career framework, part of induction for early career teachers.
+lead: Guidance for schools on setting up training based on the early career framework, part of induction for early career teachers.
 ---
 
 $CTA
@@ -10,6 +10,8 @@ $CTA
 
 
 You can choose from the following training options for your ECF-based training.
+
+^There are also other steps to [set up training for your early career teachers](/set-up-training-for-your-early-career-teachers).^
 
 [What to do if you need to make a change to your training option](/make-changes-to-early-career-training-programme).
 
