@@ -1,5 +1,5 @@
 ---
-title: Manage mentoring for your early career teachers
+title: Arrange mentoring for your early career teachers
 caption: Guidance
 lead: Guidance for schools on training based on the early career framework, part of induction for early career teachers.
 ---
@@ -9,43 +9,46 @@ Applies to England
 $CTA
 
 
-Early career teachers are entitled to mentor support throughout their 2-year induction period.
+To set up training for your early career teachers, you need to arrange mentoring for them.
+
+They're entitled to mentor support throughout their 2-year induction period.
+
+^There are also other steps to [set up training for your early career teachers](/set-up-training-for-your-early-career-teachers).^
+
+## What mentors do
 
 Mentors ensure your early career teachers recieve a high quality induction.
 
 They meet regularly with early career teachers to provide support and feedback.
 
+They also take prompt, appropriate action if their early career teacher is experiencing difficulties.
+
+Read about the role and responsibilities of mentors in section 5 of the [statutory guidance on induction for early career teachers](https://www.gov.uk/government/publications/induction-for-early-career-teachers-england).
+
+Share the [guidance for mentors](https://www.gov.uk/guidance/guidance-for-mentors-how-to-support-ecf-based-training) to help your mentors understand their role.
+
 
 ## Who to choose as a mentor
 
-Choose a mentor who:
-
-* has the skills necessary to provide or arrange mentoring around specific phases and subject areas
-* can take prompt, appropriate action if their ECT is having difficulties
+Choose mentors who have the skills to provide mentoring around specific phases and subject areas.
 
 This will normally be someone who holds qualified teacher status (QTS).
 
-You can choose a mentor who does not hold QTS as long as they have the necessary skills and knowledge to support an early career teacher. But you should check this decision with your [appropriate body]().
+If you choose someone who does not have QTS, you should check this decision with your [appropriate body](/appoint-an-appropriate-body-early-career-teachers).
 
-Ideally you should choose someone who is not also the induction tutor for your early career teachers. The 2 roles have separate and different responsibilities.
-
-## What mentors need to do
-
-Read about the role and responsibilities of mentors in section 5 of the [statutory guidance on ECT induction](https://www.gov.uk/government/publications/induction-for-early-career-teachers-england).
-
-Share the [guidance for mentors on ECF-based training](https://www.gov.uk/guidance/guidance-for-mentors-how-to-support-ecf-based-training) to help your mentors understand their role.
+Try to choose someone who is not also the induction tutor for your early career teachers. The 2 roles have separate and different responsibilities.
 
 ## Manage mentor time
-You should:
 
-* timetable mentor sessions during teaching hours wherever possible
-* ensure your mentors have enough time to meet with their early career teachers regularly
+Timetable mentor sessions during teaching hours wherever possible.
 
-Schools recieve funding to cover mentor time off timetable.
+Ensure your mentors have enough time to meet with their early career teachers regularly.
+
+Schools recieve [funding]() to cover mentor time off timetable.
 
 ## Mentor training
 
-If you use a training provider to deliver your ECF-based training, mentors will be given 36 hours of mentor training over 2 years. 
+If you use a training provider to deliver [training for your early career teachers](), mentors will be given 36 hours of mentor training over 2 years. 
 
 Every mentor at your school is expected to take part in this training. 
 
