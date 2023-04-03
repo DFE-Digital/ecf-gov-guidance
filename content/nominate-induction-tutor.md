@@ -1,7 +1,7 @@
 ---
 title: Nominate an induction tutor for your early career teachers
-caption: Guidance test
-lead: Induction tutors monitor and support your early career teachers. They manage progress reviews and coordinate formal assessments.
+caption: Guidance
+lead: Guidance for schools on training based on the early career framework, part of induction for early career teachers.
 ---
 
 $CTA

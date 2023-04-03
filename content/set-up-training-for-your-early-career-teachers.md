@@ -25,7 +25,7 @@ They also manage progress reviews and coordinate formal assessments.
 
 [Nominate an induction tutor](/nominate-induction-tutor/).
 
-## Choose your mentors hello
+## Choose your mentors
 
 Mentors ensure your early career teachers recieve a high quality induction.
 
