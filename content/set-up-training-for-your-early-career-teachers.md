@@ -5,7 +5,7 @@ lead: Guidance for schools on setting up training based on the early career fram
 ---
 
 $CTA
-Applies to England 
+Applies to England
 $CTA
 
 Early career teachers are entitled to 2 years of training based on the [early career framework](https://www.gov.uk/government/publications/early-career-framework).

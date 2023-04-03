@@ -18,23 +18,21 @@ Avoid changing your training option part-way through induction. [How to make cha
 
 ## Option one: use a provider 
 
-Providers work with delivery partners to deliver training directly to your early career teachers and mentors. 
+Providers work with delivery partners such as trusts, teaching school hubs and universities to deliver training directly to your early career teachers and mentors. 
 
-This is fully funded by the Department for Education, so there's no cost for [eligible schools]().
+This is fully funded by the Department for Education, so there's no cost for eligible schools. [Learn more about funding](https://www.gov.uk/guidance/funding-and-eligibility-for-ecf-based-training).
 
-Choose from the following providers:
+To choose this option, contact your chosen provider. They'll report the partnership to the Department for Education. 
 
-* [Ambition Institute]()
-* [Best Practice Network (home of Outstanding Leaders Partnership)]()
-* [Capita with lead academic partner the University of Birmingham]()
-* [Education Development Trust]()
-* [National Institute of Teaching, founded by the School-Led Development Trust]()
-* [Teach First]()
-* [UCL Institute of Education]()
+Providers include:
 
-Delivery partners include teaching school hubs, trusts and universities.
-
-To choose this option, contact your chosen provider from the above list. They'll report the partnership to the Department for Education. 
+* [Ambition Institute](https://www.ambition.org.uk/programmes/early-career-teachers/?utm_source=dfe&utm_medium=pr%2Fwebsite&utm_content=NRO+announcement&utm_campaign=ECT-Marketing-2021)
+* [Best Practice Network (home of Outstanding Leaders Partnership)](https://www.bestpracticenet.co.uk/early-career-framework)
+* [Capita with lead academic partner the University of Birmingham](https://www.capita.com/expertise/give-teachers-best-start-our-early-career-framework-programme)
+* [Education Development Trust](https://www.educationdevelopmenttrust.com/ecf)
+* [National Institute of Teaching, founded by the School-Led Development Trust](https://niot.org.uk/programmes/early-career-teachers)
+* [Teach First](https://www.teachfirst.org.uk/early-career-framework)
+* [UCL Institute of Education](https://www.ucl.ac.uk/ioe-early-career-framework)
 
 Once your provider has registered the partnership, your induction tutor will see the provider in their '[Manage training for early careers teachers](https://manage-training-for-early-career-teachers.education.gov.uk/)' account. 
 
@@ -51,16 +49,14 @@ You'll chose materials from one of the following suppliers:
 * Teach First
 * UCL Early Career Teacher Consortium
 
-Your [appropriate body]() will check your programme to make sure it covers the full depth of the early career framework.
+Your [appropriate body](/appoint-an-appropriate-body-early-career-teachers) will check your programme to make sure it covers the full depth of the early career framework.
 
-To access and compare the training materials, sign into the '[Support for early career teachers service](link)'. You can create an account for your school if you do not already have one.
-
-We email your ECTs and mentors a link to the DfE-accredited materials when they pass our eligibility checks.
+To access and compare the training materials, visit the '[Support for early career teachers](https://support-for-early-career-teachers.education.gov.uk/)' service.
 
 ## Option 3: design and deliver your own ECF-based training
 
-You can design and deliver your own 2-year training programme based on the early career framework.
+You can design and deliver your own 2-year training programme based on the [early career framework](https://www.gov.uk/government/publications/early-career-framework).
 
-If you do, yor induction tutor should report this to the Department for Education through the '[Manage training for early career teachers](link)' service.
+If you do, your induction tutor should report this to the Department for Education through the '[Manage training for early career teachers](https://manage-training-for-early-career-teachers.education.gov.uk/)' service.
 
-Your [appropriate body]() will fidelity check your programme to make sure it covers the full depth of the ECF.
+Your [appropriate body](/appoint-an-appropriate-body-early-career-teachers) will fidelity check your programme to make sure it covers the full depth of the ECF.
