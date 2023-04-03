@@ -52,7 +52,6 @@ If you use a training provider to deliver [training for your early career teache
 
 Every mentor at your school is expected to take part in this training. 
 
-Schools should not send one mentor for training and then expect that mentor to train their colleagues. 
 
 Your provider will have minimum engagement requirements for all the mentors at your school.
 
@@ -66,7 +65,7 @@ This is for professional development purposes and must not be used for formal as
 
 ## Registering mentors
 
-Your induction tutor needs to register mentors through the 'Manage training for early careers teachers' service.
+Your [induction tutor]() needs to register mentors through the 'Manage training for early careers teachers' service.
 
 If your school is new to this service, [send your school a link to use the service](https://manage-training-for-early-career-teachers.education.gov.uk/nominations/resend-email).
 

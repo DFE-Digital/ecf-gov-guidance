@@ -9,41 +9,27 @@ Applies to England
 $CTA
 
 
-To set up training for your early career teachers, you need to appoint an appropriate body.
+To set up training for your early career teachers, you need to appoint an appropriate body for each early career teacher.
 
 ^There are also other steps to [set up training for your early career teachers](/set-up-training-for-your-early-career-teachers).^
 
-Induction tutors monitor and support your early career teachers.
+## What an appropriate body does
 
-They manage progress reviews and coordinate formal assessments.
+Appropriate bodies quality assure induction. They:
 
-They also need to report certain information about your early career programme to the Department for Education.
+* confirm each ECT’s role is suitable to count towards their statutory induction
+* register each ECT’s induction with the Teaching Regulation Agency (TRA)
+* check your ECTs receive their statutory entitlements
+* make sure formal assessments are fair and appropriate
 
-## Who to nominate
+If your school delivers training using accredited materials or designs and delivers your own training, your appropriate body will check that the training is based on the ECF. This process is known as ‘fidelity checking’. Schools using a DfE-funded training provider will not need to have these checks.
 
-Choose someone who:
+Most schools appoint one appropriate body for all their ECTs, but you can appoint a different appropriate body:
 
-* holds qualified teacher status (QTS)
-* can assess early career teachers' progress against the teachers’ standards
-* is not also a mentor for your early career teachers, ideally
+* as a choice for a new ECT, or group of ECTs, due to start induction
+* when an ECT did their initial teacher training (ITT) through an accredited provider who cannot then be the appropriate body assuring their induction
+* where an ECT is serving their induction in a teaching school hub or appropriate body, who cannot also be the appropriate body assuring their induction
 
-## What induction tutors need to do
+Find information on local and national appropriate bodies.
 
-They need to:
-
-* carry out regular progress reviews
-* undertake 2 formal assessment meetings with early career teachers during the 2-year induction period - one midway through induction and one at the end
-* recognise when early action is needed if an early career teacher is experiencing difficulties
-
-Your induction tutor will need also access to the 'Manage training for early careers teachers' service in order to report information about your early career programme to the Department for Education.
-
-If your school is new to this service, [send your school a link to use the service](https://manage-training-for-early-career-teachers.education.gov.uk/nominations/resend-email).
-
-You'll be asked to nominate an induction tutor. They can then [sign in to 'Manage training for early career teachers'](https://manage-training-for-early-career-teachers.education.gov.uk/).
-
-
-
-^This is useful information that's worth knowing.^
-
-Read more about the roles and responsibilities of an induction tutor in section 5 of the [statutory guidance for the induction for early career teachers](https://www.gov.uk/government/publications/induction-for-early-career-teachers-england).
-
+Read more about the role and responsibilities of appropriate bodies.
