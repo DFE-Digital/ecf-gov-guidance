@@ -23,7 +23,9 @@ For example, they:
 * check your early career teachers receive their statutory entitlements
 * make sure formal assessments are fair and appropriate
 
-Unless you use a training provider to deliver your traning, your appropriate body will also check that your training covers the full depth of the [early career framework](https://www.gov.uk/government/publications/early-career-framework). 
+Unless you use a training provider to deliver your training, your appropriate body will also check that your training covers the full depth of the [early career framework](https://www.gov.uk/government/publications/early-career-framework). 
+
+[Learn more about training options](/choose-training-option-early-career-teachers).
 
 [Read more about the role and responsibilities of appropriate bodies](https://www.gov.uk/government/publications/appropriate-bodies-guidance-induction-and-the-early-career-framework).
 
@@ -37,5 +39,5 @@ You can appoint one appropriate body for all of your early career teachers, but 
 
 For example - if an early career teacher did their initial teacher training (ITT) through an accredited provider who is also an appropriate body, you cannot appoint that appropriate body for that teacher.
 
-If a early career teacher is serving their induction at an appropriate body (such as a teaching school hub), you cannot appoint that appropriate body for that teacher.
+If an early career teacher is serving their induction at an appropriate body (such as a teaching school hub), you cannot appoint that appropriate body for that teacher.
 
