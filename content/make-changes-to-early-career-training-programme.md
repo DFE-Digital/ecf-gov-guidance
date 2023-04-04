@@ -61,7 +61,7 @@ You'll recieve an email from the Department for Education asking you to confirm 
 
 ### If you use DfE-accredited materials
 
-Your early career teachers and mentors may lose their progress if you change materials.
+Your early career teachers and mentors may lose their progress if you change your programme.
 
 Email the Department for Education at continuing-professional-development@digital.education.gov.uk to:
 

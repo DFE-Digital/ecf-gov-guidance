@@ -23,9 +23,17 @@ For example, they:
 * check your early career teachers receive their statutory entitlements
 * make sure formal assessments are fair and appropriate
 
-If you deliver training using DfE-accredited materials, or you design your own training, your appropriate body will check that your training covers the full depth of the [early career framework](https://www.gov.uk/government/publications/early-career-framework)
+Your appropriate body will check that your training covers the full depth of the [early career framework](https://www.gov.uk/government/publications/early-career-framework) if you deliver training using materials accredited by the Department for Education, or you design and deliver your own training.
 
 If you use a training provider, you do not need to have these checks.
+
+[Read more about the role and responsibilities of appropriate bodies](https://www.gov.uk/government/publications/appropriate-bodies-guidance-induction-and-the-early-career-framework).
+
+## Find an appropriate body
+
+
+[Find an appropriate body](https://www.gov.uk/government/publications/statutory-teacher-induction-appropriate-bodies/find-an-appropriate-body).
+
 
 You can appoint one appropriate body for all of your early career teachers, but you can appoint a different appropriate body:
 
@@ -33,6 +41,3 @@ You can appoint one appropriate body for all of your early career teachers, but 
 * when an ECT did their initial teacher training (ITT) through an accredited provider who cannot then be the appropriate body assuring their induction
 * where an ECT is serving their induction in a teaching school hub or appropriate body, who cannot also be the appropriate body assuring their induction
 
-Find information on local and national appropriate bodies.
-
-Read more about the role and responsibilities of appropriate bodies.

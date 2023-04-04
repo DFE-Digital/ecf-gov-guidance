@@ -1,5 +1,5 @@
 ---
-title: Arrange mentoring for your early career teachers
+title: Arrange mentoring for early career teachers
 caption: Guidance
 lead: Guidance for schools on setting up training based on the early career framework, part of induction for early career teachers.
 ---
@@ -11,13 +11,13 @@ $CTA
 
 To set up training for your early career teachers, you need to arrange mentoring for them.
 
-They're entitled to mentor support throughout their 2-year induction period.
+Early career teachers are entitled to mentor support throughout their 2-year induction period.
 
 ^There are also other steps to [set up training for your early career teachers](/set-up-training-for-your-early-career-teachers).^
 
 ## What mentors do
 
-Mentors ensure your early career teachers recieve a high quality induction.
+Mentors ensure your early career teachers receive a high quality induction.
 
 They meet regularly with early career teachers to provide support and feedback.
 
@@ -36,7 +36,7 @@ This will normally be someone who holds qualified teacher status (QTS).
 
 If you choose someone who does not have QTS, you should check this decision with your [appropriate body](/appoint-an-appropriate-body-early-career-teachers).
 
-Try to choose someone who is not also the induction tutor for your early career teachers. The 2 roles have separate and different responsibilities.
+Try to choose someone who is not also the [induction tutor](/nominate-induction-tutor) for your early career teachers. The 2 roles have separate and different responsibilities.
 
 ## Manage mentor time
 
@@ -44,7 +44,7 @@ Timetable mentor sessions during teaching hours wherever possible.
 
 Ensure your mentors have enough time to meet with their early career teachers regularly.
 
-Schools recieve [funding](https://www.gov.uk/guidance/funding-and-eligibility-for-ecf-based-training) to cover mentor time off timetable.
+Schools receive [funding](https://www.gov.uk/guidance/funding-and-eligibility-for-ecf-based-training) to cover mentor time off timetable.
 
 ## Mentor training and observations
 

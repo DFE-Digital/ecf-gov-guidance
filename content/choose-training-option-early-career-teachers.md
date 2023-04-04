@@ -1,5 +1,5 @@
 ---
-title: Choose a training option for your early career teachers
+title: Choose a training option for early career teachers
 caption: Guidance
 lead: Guidance for schools on setting up training based on the early career framework, part of induction for early career teachers.
 ---
@@ -22,9 +22,7 @@ Providers work with delivery partners such as trusts, teaching school hubs and u
 
 This is fully funded by the Department for Education, so there's no cost for eligible schools. [Learn more about funding](https://www.gov.uk/guidance/funding-and-eligibility-for-ecf-based-training).
 
-To choose this option, contact your chosen provider. They'll report the partnership to the Department for Education. 
-
-Providers include:
+To choose this option, contact your chosen provider. Providers include:
 
 * [Ambition Institute](https://www.ambition.org.uk/programmes/early-career-teachers/?utm_source=dfe&utm_medium=pr%2Fwebsite&utm_content=NRO+announcement&utm_campaign=ECT-Marketing-2021)
 * [Best Practice Network (home of Outstanding Leaders Partnership)](https://www.bestpracticenet.co.uk/early-career-framework)
@@ -34,7 +32,7 @@ Providers include:
 * [Teach First](https://www.teachfirst.org.uk/early-career-framework)
 * [UCL Institute of Education](https://www.ucl.ac.uk/ioe-early-career-framework)
 
-Once your provider has registered the partnership, your induction tutor will see the provider in their '[Manage training for early careers teachers](https://manage-training-for-early-career-teachers.education.gov.uk/)' account. 
+Your provider will register the partnership with the Department for Education. Your [induction tutor](/nominate-induction-tutor) will then see the provider in their '[Manage training for early careers teachers](https://manage-training-for-early-career-teachers.education.gov.uk/)' account. 
 
 If the provider name does not appear, contact the provider to ask them to confirm the partnership with the Department for Education.
 
