@@ -23,9 +23,7 @@ For example, they:
 * check your early career teachers receive their statutory entitlements
 * make sure formal assessments are fair and appropriate
 
-Your appropriate body will check that your training covers the full depth of the [early career framework](https://www.gov.uk/government/publications/early-career-framework) if you deliver training using materials accredited by the Department for Education, or you design and deliver your own training.
-
-If you use a training provider, you do not need to have these checks.
+Unless you use a training provider to deliver your traning, your appropriate body will also check that your training covers the full depth of the [early career framework](https://www.gov.uk/government/publications/early-career-framework). 
 
 [Read more about the role and responsibilities of appropriate bodies](https://www.gov.uk/government/publications/appropriate-bodies-guidance-induction-and-the-early-career-framework).
 
@@ -35,9 +33,9 @@ If you use a training provider, you do not need to have these checks.
 [Find an appropriate body](https://www.gov.uk/government/publications/statutory-teacher-induction-appropriate-bodies/find-an-appropriate-body).
 
 
-You can appoint one appropriate body for all of your early career teachers, but you can appoint a different appropriate body:
+You can appoint one appropriate body for all of your early career teachers, but you may need or choose to appoint different ones.
 
-* as a choice for a new ECT, or group of ECTs, due to start induction
-* when an ECT did their initial teacher training (ITT) through an accredited provider who cannot then be the appropriate body assuring their induction
-* where an ECT is serving their induction in a teaching school hub or appropriate body, who cannot also be the appropriate body assuring their induction
+For example - if an early career teacher did their initial teacher training (ITT) through an accredited provider who is also an appropriate body, you cannot appoint that appropriate body for that teacher.
+
+If a early career teacher is serving their induction at an appropriate body (such as a teaching school hub), you cannot appoint that appropriate body for that teacher.
 
