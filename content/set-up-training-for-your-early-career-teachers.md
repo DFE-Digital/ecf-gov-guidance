@@ -19,7 +19,7 @@ Induction tutors monitor and support your early career teachers.
 
 They manage progress reviews and coordinate formal assessments.
 
-[Nominate an induction tutor](/nominate-induction-tutor/).
+Learn more about [nominating an induction tutor](/nominate-induction-tutor/).
 
 ## 2. Arrange mentoring
 
@@ -27,7 +27,7 @@ Mentors ensure your early career teachers receive a high quality induction.
 
 They meet regularly with early career teachers to provide support and feedback.
 
-[Arrange mentoring](/choose-mentors-for-early-career-teachers).
+Learn more about [arranging mentoring](/choose-mentors-for-early-career-teachers).
 
 ## 3. Choose a training option
 
@@ -37,10 +37,10 @@ Choose from the following training options:
 * deliver your own training using materials accredited by the Department for Education
 * design and deliver your own training based on the early career framework
 
-[Choose a training option](/choose-training-option-early-career-teachers).
+Learn more about [training options for early career teachers](/choose-training-option-early-career-teachers).
 
 ## 4. Appoint an appropriate body
 
 Your appropriate body will quality assure your early career teachers' induction.
 
-[Appoint an appropriate body](/appoint-an-appropriate-body-early-career-teachers).
+Learn more about [appointing an appropriate body](/appoint-an-appropriate-body-early-career-teachers).

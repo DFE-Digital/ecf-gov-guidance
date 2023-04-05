@@ -23,9 +23,7 @@ For example, they:
 * check your early career teachers receive their statutory entitlements
 * make sure formal assessments are fair and appropriate
 
-Unless you use a training provider to deliver your training, your appropriate body will also check that your training covers the full depth of the [early career framework](https://www.gov.uk/government/publications/early-career-framework). 
-
-[Learn more about training options](/choose-training-option-early-career-teachers).
+Unless you use a training provider to deliver [training for your early career teachers](/choose-training-option-early-career-teachers)), your appropriate body will also check that your training covers the full depth of the [early career framework](https://www.gov.uk/government/publications/early-career-framework). 
 
 [Read more about the role and responsibilities of appropriate bodies](https://www.gov.uk/government/publications/appropriate-bodies-guidance-induction-and-the-early-career-framework).
 
