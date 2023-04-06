@@ -15,27 +15,21 @@ Complete the following steps to set up training for your early career teachers.
 
 ## 1. Nominate an induction tutor
 
-Induction tutors monitor and support your early career teachers. 
+Induction tutors monitor the progress of early career teachers.
 
-They manage progress reviews and coordinate formal assessments.
+They also report information about your training for early career teachers to the Department for Education.
 
 Learn more about [nominating an induction tutor](/nominate-induction-tutor/).
 
 ## 2. Arrange mentoring
 
-Mentors ensure your early career teachers receive a high quality induction.
-
-They meet regularly with early career teachers to provide support and feedback.
+Mentors meet regularly with early career teachers to provide support and feedback.
 
 Learn more about [arranging mentoring](/choose-mentors-for-early-career-teachers).
 
 ## 3. Choose a training option
 
-Choose from the following training options:
-
-* use a provider to deliver training directly to your early career teachers and their mentors
-* deliver your own training using materials accredited by the Department for Education
-* design and deliver your own training based on the early career framework
+There are different ways to deliver training based on the early career framework.
 
 Learn more about [training options for early career teachers](/choose-training-option-early-career-teachers).
 
