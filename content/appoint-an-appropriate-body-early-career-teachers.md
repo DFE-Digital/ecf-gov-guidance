@@ -19,9 +19,8 @@ Appropriate bodies quality assure induction.
 
 For example, they:
 
-* confirm that an early career teacher's role is suitable to count towards their statutory induction
-* check your early career teachers receive their statutory entitlements
-* make sure formal assessments are fair and appropriate
+* check that your early career teachers receive their statutory entitlements, such as [mentoring](/choose-mentors-for-early-career-teachers) throughout their 2 year induction period
+* make sure formal assessments conducted by your [induction tutor](/nominate-induction-tutor) are fair and appropriate
 
 Unless you use a training provider to deliver [training for your early career teachers](/choose-training-option-early-career-teachers)), your appropriate body will also check that your training covers the full depth of the [early career framework](https://www.gov.uk/government/publications/early-career-framework). 
 

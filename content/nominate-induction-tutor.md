@@ -17,10 +17,10 @@ To set up training for your early career teachers, you need to nominate an induc
 
 Induction tutors monitor and support your early career teachers.
 
-Responsibilities include:
+They conduct:
 
-* carrying out regular progress reviews
-* undertaking 2 formal assessment meetings with early career teachers during the 2-year induction period - one midway through induction and one at the end
+* regular progress reviews
+* 2 formal assessment meetings with early career teachers during the 2-year induction period - one midway through induction and one at the end
 
 Read about the roles and responsibilities of induction tutors in section 5 of the [statutory guidance on induction for early career teachers](https://www.gov.uk/government/publications/induction-for-early-career-teachers-england).
 
