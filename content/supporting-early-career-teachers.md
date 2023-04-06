@@ -1,37 +1,42 @@
 ---
-title: Supporting early career teachers
+title: Support early career teachers
 caption: Guidance
-lead: Guidance for schools on supporting early career teachers.
+lead: Guidance for schools on supporting early career teachers during their training based on the early career framework, part of induction for early career teachers.
 ---
 
 $CTA
 Applies to England
 $CTA
 
-ECTs should participate in ECF-based training as fully as possible, although failing to complete it does not mean they fail their induction.
+You should ensure early career teachers can participate fully in their training.
 
-You can share the [guidance for early career teachers](https://www.gov.uk/guidance/guidance-for-early-career-teachers-ects-ecf-based-training) to help them understand how the training works.
+However, failing to complete their training does not mean they fail their induction.
 
-You can also read about the expectations for early career teachers in section 5 of the [statutory guidance on induction for early career teachers](https://www.gov.uk/government/publications/induction-for-early-career-teachers-england).
+Share the [guidance for early career teachers](https://www.gov.uk/guidance/guidance-for-early-career-teachers-ects-ecf-based-training) to help them understand how the training works.
 
-## Part-time induction and reduced induction periods
+Find out about the expectations for early career teachers in section 5 of the [statutory guidance on induction for early career teachers](https://www.gov.uk/government/publications/induction-for-early-career-teachers-england).
 
-If your school uses a training provider, contact your lead provider for their policies on part-time induction and reduced induction periods. You will also need to ask the ECT’s appropriate body to agree to any reduction to their induction period.
+If you're using a training provider to deliver your training, your early career teachers will need to meet the provider's requirements. 
 
-If your school uses accredited materials or designs and delivers its own training, contact your appropriate body for advice on part-time induction and reduced induction periods.
+If they do not, they could be withdrawn from the provider's programme. 
 
-When an ECT is serving a reduced induction period, there’s no expectation that they should cover the full depth of the ECF. Your headteacher should work with your induction tutor, appropriate body and training provider (where relevant) to make sure training and support is appropriate for the ECT.
+In this case, you would need to set up another training programme. [Find out about your training options](/choose-training-option-early-career-teachers).
 
-## ECT engagement with training provider programmes
+If your early career teachers are serving a reduced or part time induction period, they will not need to cover the full depth of the early career framework. 
 
-If your school uses a training provider, the lead provider will have minimum requirements for ECT engagement. This is to make sure ECTs receive their statutory entitlement to ECF-based training.
+Work with your [induction tutor](/nominate-induction-tutor), training provider (if you use one) and your [appropriate body](/appoint-an-appropriate-body-early-career-teachers) to ensure training and support is appropriate.
 
-If an ECT cannot meet those engagement requirements, they may be withdrawn from the programme by the lead provider. If this happens, your school may have to provide them with alternative ECF-based training.
 
-## Handling ECTs’ concerns and difficulties
+## Handling concerns
 
-If an ECT is struggling with their training, they should ask their induction tutor for help. If your school is using a training provider, they can speak to them too.
+If early career teachers have problems with their training, they should talk to your [induction tutor](/nominate-induction-tutor) for help. 
 
-When an ECT has concerns about their induction or statutory entitlements (time off timetable and support from a mentor), they should speak to your school induction tutor first.
+They can also speak to their training provider if you use one.
 
-If your induction tutor is unable to help, the ECT can speak to their appropriate body. ECTs must be given the contact details of a named person at the appropriate body at the start of their induction.
+If they have concerns about their statutory entitlements to time off timetable and mentor support, they should talk to your induction tutor first.
+
+If your induction tutor is unable to help, they can speak to your [appropriate body](/appoint-an-appropriate-body-early-career-teachers).
+
+^You need to give your early career teachers the contact details of a named person at your appropriate body when they start their induction.^
+
+
