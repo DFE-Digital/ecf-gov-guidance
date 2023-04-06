@@ -13,14 +13,12 @@ To set up training for your early career teachers, you need to choose a training
 
 ^There are also other steps to [set up training for your early career teachers](/set-up-training-for-your-early-career-teachers).^
 
-Avoid changing your training option part-way through induction. [How to make changes to early career training](/make-changes-to-early-career-training-programme).
-
 
 ## Option one: use a provider 
 
 Providers work with delivery partners such as trusts, teaching school hubs and universities to deliver training directly to your early career teachers and mentors. 
 
-This is fully funded by the Department for Education, so there's no cost for eligible schools. [Learn more about funding](https://www.gov.uk/guidance/funding-and-eligibility-for-ecf-based-training).
+This is fully funded by the Department for Education, so there's no cost for eligible schools. [Learn about funding for training based on the early career framework](https://www.gov.uk/guidance/funding-and-eligibility-for-ecf-based-training).
 
 To choose this option, contact your chosen provider. Providers include:
 
@@ -32,13 +30,11 @@ To choose this option, contact your chosen provider. Providers include:
 * [Teach First](https://www.teachfirst.org.uk/early-career-framework)
 * [UCL Institute of Education](https://www.ucl.ac.uk/ioe-early-career-framework)
 
-Your provider will register the partnership with the Department for Education. Your [induction tutor](/nominate-induction-tutor) will then see the provider in their '[Manage training for early careers teachers](https://manage-training-for-early-career-teachers.education.gov.uk/)' account. 
-
-If the provider name does not appear, contact the provider to ask them to confirm the partnership with the Department for Education.
+Your provider will register the partnership with the Department for Education. 
 
 ## Option 2: deliver your own training using DfE-accredited materials
 
-Your early career teachers and mentors will have access to DfE-accredited materials such as self-directed study materials and mentor session guidelines. 
+Your early career teachers and mentors will have access to DfE-accredited materials such as self-directed study materials and guidelines for mentor sessions.
 
 You'll chose materials from one of the following suppliers:
 
@@ -49,12 +45,18 @@ You'll chose materials from one of the following suppliers:
 
 Your [appropriate body](/appoint-an-appropriate-body-early-career-teachers) will check your programme to make sure it covers the full depth of the early career framework.
 
-To access and compare the training materials, visit the '[Support for early career teachers](https://support-for-early-career-teachers.education.gov.uk/)' service.
+To access and compare the training materials, visit '[Support for early career teachers](https://support-for-early-career-teachers.education.gov.uk/)'.
 
-## Option 3: design and deliver your own ECF-based training
+## Option 3: design and deliver your own training
 
 You can design and deliver your own 2-year training programme based on the [early career framework](https://www.gov.uk/government/publications/early-career-framework).
 
-If you do, your induction tutor should report this to the Department for Education through the '[Manage training for early career teachers](https://manage-training-for-early-career-teachers.education.gov.uk/)' service.
+Your [appropriate body](/appoint-an-appropriate-body-early-career-teachers) will check your programme to make sure it covers the early career framework.
 
-Your [appropriate body](/appoint-an-appropriate-body-early-career-teachers) will fidelity check your programme to make sure it covers the full depth of the ECF.
+## Report your training option
+
+Your induction tutor needs to report your chosen training option through ‘[Manage training for early careers teachers](https://manage-training-for-early-career-teachers.education.gov.uk/)’.
+
+[Find out about induction tutors](/nominate-induction-tutor), including and how to sign in to 'Manage training for early career teachers'.
+
+^Avoid changing your training option part-way through induction. [How to make changes to early career training](/make-changes-to-early-career-training-programme).^

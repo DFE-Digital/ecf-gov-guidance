@@ -9,9 +9,7 @@ Applies to England
 $CTA
 
 
-To set up training for your early career teachers, you need to arrange mentoring for them.
-
-Early career teachers are entitled to mentor support throughout their 2-year induction period.
+To set up training for your early career teachers, you need to arrange mentoring for them. They're entitled to mentor support throughout their 2-year induction period.
 
 ^There are also other steps to [set up training for your early career teachers](/set-up-training-for-your-early-career-teachers).^
 
@@ -32,7 +30,7 @@ Share the [guidance for mentors](https://www.gov.uk/guidance/guidance-for-mentor
 
 Choose mentors who have the skills to provide mentoring around specific phases and subject areas.
 
-This will normally be someone who holds qualified teacher status (QTS).
+This will normally be someone who has qualified teacher status (QTS).
 
 If you choose someone who does not have QTS, you should check this decision with your [appropriate body](/appoint-an-appropriate-body-early-career-teachers).
 
@@ -50,28 +48,24 @@ Schools receive [funding](https://www.gov.uk/guidance/funding-and-eligibility-fo
 
 If you use a training provider to deliver [training for your early career teachers](/choose-training-option-early-career-teachers), mentors will be given 36 hours of mentor training over 2 years. 
 
-Every mentor at your school is expected to take part in this training. 
+Every mentor at your school needs to attend this training.
 
-Your provider will have minimum engagement requirements for all the mentors at your school.
+[If an early career teacher transfers schools](/transferring-early-career-teachers) or withdraws part-way through their induction, their assigned mentor can continue their training as long as they are ready to work with other early career teachers.
 
-If an early career teacher moves schools or withdraws part-way through their induction, their assigned mentor can continue their training as long as they are ready to work with other early career teachers.
-
-Mentors may also be asked to observe your early career teachers.
+Mentors may also be asked to observe your early career teachers. 
 
 This is for professional development purposes and must not be used for formal assessment.
 
-## Registering mentors
+## Register mentors
 
-Your [induction tutor](/nominate-induction-tutor) needs to register mentors through the 'Manage training for early careers teachers' service.
+Your [induction tutor](/nominate-induction-tutor) needs to register mentors through 'Manage training for early careers teachers'.
 
 If your school is new to this service, [send your school a link to use the service](https://manage-training-for-early-career-teachers.education.gov.uk/nominations/resend-email).
 
-You'll be asked to nominate an induction tutor, who will then be given access to the service.
-
-Once set up, your induction tutor can [sign in to 'Manage training for early career teachers'](https://manage-training-for-early-career-teachers.education.gov.uk/) to register mentors.
+You'll be asked to nominate an induction tutor, who will then be invited to [sign in to 'Manage training for early career teachers'](https://manage-training-for-early-career-teachers.education.gov.uk/) to register mentors.
 
 
-## Handling mentors’ concerns
+## Mentor concerns
 
 If a mentor has concerns or difficulties, they should contact your school [induction tutor](/nominate-induction-tutor).
 

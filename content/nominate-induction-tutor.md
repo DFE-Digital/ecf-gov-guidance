@@ -11,8 +11,6 @@ $CTA
 
 To set up training for your early career teachers, you need to nominate an induction tutor.
 
-You need to use the same induction tutor for all of your early career teachers.
-
 ^There are also other steps to [set up training for your early career teachers](/set-up-training-for-your-early-career-teachers).^
 
 ## What induction tutors do
@@ -39,8 +37,12 @@ Choose someone who:
 
 Try to choose someone who is not also a mentor for your early career teachers. The 2 roles have separate and different responsibilities.
 
-## How to nominate an induction tutor
+You can only have one induction tutor for your school.
 
-If your school is new to the ‘Manage training for early careers teachers’ service, [send your school a link to use the service](https://manage-training-for-early-career-teachers.education.gov.uk/nominations/resend-email).
+## Nominate your induction tutor
 
-You'll be asked to nominate an induction tutor, who'll then be invited to sign in to ‘[Manage training for early careers teachers](https://manage-training-for-early-career-teachers.education.gov.uk/)’ to report information about your training.
+Nominate your induction tutor through ‘Manage training for early careers teachers’.
+
+If your school is new to the service, [send your school a link to use the service](https://manage-training-for-early-career-teachers.education.gov.uk/nominations/resend-email).
+
+Once you've nominated an induction tutor, they'll be invited to sign in to ‘[Manage training for early careers teachers](https://manage-training-for-early-career-teachers.education.gov.uk/)’ to report information about your training.
