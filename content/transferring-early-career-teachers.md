@@ -1,7 +1,7 @@
 ---
 title: Transfer early career teachers 
 caption: Guidance
-lead: Guidance for schools on transferring early career teachers part-way through induction.
+lead: Guidance for schools on transferring early career teachers during their training based on the early career framework, part of induction for early career teachers.
 ---
 
 $CTA
@@ -9,23 +9,25 @@ Applies to England
 $CTA
 
 
-Sign into the '[Manage training for early career teachers](https://manage-training-for-early-career-teachers.education.gov.uk/)' service to report that an early career teacher is:
+If an early career teacher transfers to or away from your school during their 2-year induction period, you need to report to transfer to:
 
-* transferring to your school part-way through their induction
-* transferring away from your school part-way through their induction
+* your [appropriate body](/appoint-an-appropriate-body-early-career-teachers) for that early career teacher
+* the Department for Education
 
-This is so that both schools receive the correct funding.
+Your induction tutor can report this to the Department for Education through ‘[Manage training for early career teachers](https://manage-training-for-early-career-teachers.education.gov.uk/)’. This ensures both schools receive the correct funding.
 
-You also need to report the transfer to the appropriate body you’ve appointed for the early career teacher. 
+[Find out about induction tutors](/nominate-induction-tutor), including and how to sign in to ‘Manage training for early career teachers’.
 
-Ask the early career teacher or their previous school to provide records of any assessments and progress reviews completed so far.
+If the early career teacher is transferring to your school, ask them or their previous school for records of any assessments and progress reviews completed so far.
 
-Early career teachers should continue with their existing training programme if at all possible.
+Early career teachers should continue with their existing training programme if possible.
 
-Where this is not possible, you’ll need to make arrangements for them to continue their training with a different training provider or by another delivery method.
+If this is not possible, you’ll need to make arrangements for them to continue their training with a different provider or using a different [training option](/choose-training-option-early-career-teachers).
 
-You should discuss these arrangements with:
+Discuss this with your:
 
-* the appropriate body you have appointed for them
-* your lead provider, if you’ll use a training provider to continue their training
-* their previous lead provider, if their old school used a training provider to deliver their training
+* appropriate body for that early career teacher
+* provider, if you’ll use one
+
+You should also talk to the previous provider for that early career teacher, if their previous school used one. 
+
