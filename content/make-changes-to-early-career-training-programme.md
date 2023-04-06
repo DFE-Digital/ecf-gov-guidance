@@ -25,13 +25,7 @@ You'll receive an email from them confirming the end of the partnership.
 
 Forward this on to the Department for Education at continuing-professional-development@digital.education.gov.uk. 
 
-Your provider will be removed from your '[Manage training for early career teachers]()' account.
-
 Once you've instructed a new provider, your new provider will report the partnership to the Department for Education.
-
-Your provider will be updated in your '[Manage training for early career teachers]()' account.
-
-This may take a few weeks.
 
 ## Change delivery partner
 
@@ -41,23 +35,19 @@ If you decide to change to another delivery partner, confirm the change with you
 
 Your provider will report the change to the Department for Education. 
 
-Your delivery partner will be updated in your '[Manage training for early career teachers]()' account.
-
-This may take a few weeks.
-
 ## Change training option
 
 ### If you use a provider
 
 If you want to switch from using a training provider to another [training option](/choose-training-option-early-career-teachers), discuss this directly with your provider.
 
-Let the provider know if you decide to change training option.
+Let the provider know if you decide to change your training option.
 
 You'll receive an email from them confirming the end of the partnership.
 
 Forward this on to the Department for Education at continuing-professional-development@digital.education.gov.uk.
 
-You'll recieve an email from the Department for Education asking you to confirm your new training option.
+You'll receive an email from the Department for Education asking you to confirm your new training option.
 
 ### If you use DfE-accredited materials
 
@@ -73,10 +63,9 @@ Email the Department for Education at continuing-professional-development@digita
 
 You do not need to tell the Department for Education if you redesign your programme.
 
-Your [appropriate body]() will still fidelity check your programme to make sure it covers the full depth of the early career framework.
+Your [appropriate body](/appoint-an-appropriate-body-early-career-teachers) will  check your programme to make sure it covers the early career framework.
 
-To switch from your own training programme to another delivery method, sign in to the 'Manage training for early career teachers' service to report the change.
+To change from your own training programme to another delivery method, your induction tutor should report the change through '[Manage training for early career teachers](https://manage-training-for-early-career-teachers.education.gov.uk/)'.
 
-You’ll need to add your early career teachers and mentors so that the Department for Education can check their eligibilty for funding.
-
+[Find out about induction tutors](/nominate-induction-tutor), including and how to sign in to ‘Manage training for early career teachers’.
 

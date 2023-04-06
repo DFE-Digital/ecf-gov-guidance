@@ -24,9 +24,19 @@ They conduct:
 
 Read about the roles and responsibilities of induction tutors in section 5 of the [statutory guidance on induction for early career teachers](https://www.gov.uk/government/publications/induction-for-early-career-teachers-england).
 
-They also need to report certain information about your early career training through '[Manage training for early careers teachers](https://manage-training-for-early-career-teachers.education.gov.uk/)'.
+They also need to report certain information about your early career training to the Department for Education.
 
 For example, they'll need to give details about your [mentors](/choose-mentors-for-early-career-teachers), early career teachers and your chosen [training option](/choose-training-option-early-career-teachers/).
+
+To enable them to do this, nominate your induction tutor.
+
+## Nominate your induction tutor
+
+Nominate your induction tutor through ‘Manage training for early careers teachers’.
+
+If your school is new to the service, [send your school a link to use the service](https://manage-training-for-early-career-teachers.education.gov.uk/nominations/resend-email).
+
+Once you've nominated an induction tutor, they'll be invited to sign in to ‘[Manage training for early careers teachers](https://manage-training-for-early-career-teachers.education.gov.uk/)’ to report information about your training.
 
 ## Who to nominate
 
@@ -38,11 +48,3 @@ Choose someone who:
 Try to choose someone who is not also a mentor for your early career teachers. The 2 roles have separate and different responsibilities.
 
 You can only have one induction tutor for your school.
-
-## Nominate your induction tutor
-
-Nominate your induction tutor through ‘Manage training for early careers teachers’.
-
-If your school is new to the service, [send your school a link to use the service](https://manage-training-for-early-career-teachers.education.gov.uk/nominations/resend-email).
-
-Once you've nominated an induction tutor, they'll be invited to sign in to ‘[Manage training for early careers teachers](https://manage-training-for-early-career-teachers.education.gov.uk/)’ to report information about your training.
