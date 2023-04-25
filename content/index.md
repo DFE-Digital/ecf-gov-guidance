@@ -1,8 +1,8 @@
 ---
-title: Index
+title: List of pages
 ---
 
-[Set up training for your early career teachers](/set-up-training-for-your-early-career-teachers)
+[Set up training for early career teachers](/set-up-training-for-your-early-career-teachers)
 
 [Nominate an induction tutor for early career teachers](/nominate-induction-tutor)
 
