@@ -10,9 +10,9 @@ $CTA
 
 Early career teachers are entitled to 2 years of training based on the [early career framework](https://www.gov.uk/government/publications/early-career-framework).
 
-Complete the following steps to set up training for your early career teachers.
+You need to do the following things to set up training for your early career teachers.
 
-## 1. Nominate an induction tutor
+## Nominate an induction tutor
 
 Induction tutors monitor the progress of early career teachers.
 
@@ -20,19 +20,19 @@ They also report information about your training for early career teachers to th
 
 Learn more about [nominating an induction tutor](/nominate-induction-tutor/).
 
-## 2. Arrange mentoring
+## Arrange mentoring
 
 Mentors meet regularly with early career teachers to provide support and feedback.
 
 Learn more about [arranging mentoring](/choose-mentors-for-early-career-teachers).
 
-## 3. Choose a training option
+## Choose a training option
 
 There are different ways to deliver training based on the early career framework.
 
 Learn more about [training options for early career teachers](/choose-training-option-early-career-teachers).
 
-## 4. Appoint an appropriate body
+## Appoint an appropriate body
 
 Your appropriate body will quality assure your early career teachers' induction.
 
