@@ -17,6 +17,8 @@ You need to do the following things to set up training for your early career tea
 
 Your appropriate body will quality assure your early career teachers' induction.
 
+Early career teachers cannot start their induction until you've appointed one.
+
 Learn more about [appointing an appropriate body](/appoint-an-appropriate-body-early-career-teachers).
 
 ## Nominate an induction tutor
