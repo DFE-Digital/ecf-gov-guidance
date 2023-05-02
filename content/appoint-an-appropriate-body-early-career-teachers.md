@@ -33,7 +33,7 @@ Your appropriate body can also give advice if your early career teachers are ser
 
 [Find an appropriate body](https://www.gov.uk/government/publications/statutory-teacher-induction-appropriate-bodies/find-an-appropriate-body).
 
-^ You may have previously used a local authority as an appropriate body for early career teachers. From September 2023 this is no longer possible, so you'll need to choose another appropriate body. 
+^ You may have previously used a local authority as an appropriate body for early career teachers. From September 2023 it's no longer possible to use a local authority for new inductions, so you'll need to choose another appropriate body for any new early career teachers.
 
 You can appoint one appropriate body for all of your early career teachers, but you may need or choose to appoint different ones.
 
