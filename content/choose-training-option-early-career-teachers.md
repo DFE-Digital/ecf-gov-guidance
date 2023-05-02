@@ -30,7 +30,9 @@ To choose this option, contact your chosen provider. Providers include:
 * [Teach First](https://www.teachfirst.org.uk/early-career-framework)
 * [UCL Institute of Education](https://www.ucl.ac.uk/ioe-early-career-framework)
 
-Your provider will register the partnership with the Department for Education. 
+Your provider will let the Department for Education know that you signed up with them.
+
+Providers may require face to face sessions as part of their training for early career teachers, so you should talk to providers to check where they're based. 
 
 ## Option 2: deliver your own training using DfE-accredited materials
 
