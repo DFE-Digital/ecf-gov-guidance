@@ -41,3 +41,5 @@ For example - if an early career teacher did their initial teacher training (ITT
 
 If an early career teacher is serving their induction at an appropriate body (such as a teaching school hub), you cannot appoint that appropriate body for that teacher.
 
+Learn more about who you can and cannot choose in section 2 of the [statutory guidance on induction for early career teachers](https://www.gov.uk/government/publications/induction-for-early-career-teachers-england).
+
