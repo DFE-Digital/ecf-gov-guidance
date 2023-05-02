@@ -48,9 +48,9 @@ Schools receive [funding](https://www.gov.uk/guidance/funding-and-eligibility-fo
 
 If you use a training provider to deliver [training for your early career teachers](/choose-training-option-early-career-teachers), mentors will be given 36 hours of mentor training over 2 years. 
 
-Every mentor at your school needs to attend this training.
+Schools receive funding for 36 hours of mentor time off timetable if mentors attend this training. [Learn more about funding](https://www.gov.uk/guidance/funding-and-eligibility-for-ecf-based-training).
 
-[If an early career teacher transfers schools](/transferring-early-career-teachers) or withdraws part-way through their induction, their assigned mentor can continue their training as long as they are ready to work with other early career teachers.
+Mentors can continue their training even if their early career teacher [transfers school](/transferring-early-career-teachers) or withdraws part-way through their induction.
 
 Mentors may also be asked to observe your early career teachers. 
 
