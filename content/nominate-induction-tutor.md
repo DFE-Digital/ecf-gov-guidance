@@ -45,6 +45,8 @@ Choose someone who:
 * holds qualified teacher status (QTS)
 * can assess early career teachers' progress against the teachers’ standards
 
+Schools commonly choose someone in a senior leadership position such as an assistant head.
+
 Try to choose someone who is not also a mentor for your early career teachers. The 2 roles have separate and different responsibilities.
 
 You can only have one induction tutor for your school.
