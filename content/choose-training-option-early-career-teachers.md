@@ -20,7 +20,7 @@ Providers work with delivery partners such as trusts, teaching school hubs and u
 
 This is fully funded by the Department for Education, so there's no cost for eligible schools. [Learn about funding for training based on the early career framework](https://www.gov.uk/guidance/funding-and-eligibility-for-ecf-based-training).
 
-To choose this option, contact your chosen provider. Providers include:
+To choose this option, contact your chosen provider. You can choose from the following providers:
 
 * [Ambition Institute](https://www.ambition.org.uk/programmes/early-career-teachers/?utm_source=dfe&utm_medium=pr%2Fwebsite&utm_content=NRO+announcement&utm_campaign=ECT-Marketing-2021)
 * [Best Practice Network (home of Outstanding Leaders Partnership)](https://www.bestpracticenet.co.uk/early-career-framework)
