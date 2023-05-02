@@ -24,7 +24,7 @@ They conduct:
 
 Read about the roles and responsibilities of induction tutors in section 5 of the [statutory guidance on induction for early career teachers](https://www.gov.uk/government/publications/induction-for-early-career-teachers-england).
 
-They also need to report certain information about your early career training to the Department for Education.
+They also need to report certain information about your training for early career teachers to the Department for Education (DfE) so that your school receives the correct funding to support induction and training.
 
 For example, they'll need to give details about your [mentors](/choose-mentors-for-early-career-teachers), early career teachers and your chosen [training option](/choose-training-option-early-career-teachers/).
 
