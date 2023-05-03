@@ -51,7 +51,7 @@ Your [appropriate body](/appoint-an-appropriate-body-early-career-teachers) will
 
 Before you choose this option you may want to see the training materials. Create a '[Support for early career teachers](https://support-for-early-career-teachers.education.gov.uk/users/sign-up)' account to view them.
 
-Your ECTs and mentors will be given access to the materials once your induction tutor has reported your chosen training option to DfE. [Learn about induction tutors and how they report your training option to DfE](/nominate-induction-tutor/).
+Your ECTs and mentors will be invited to access the materials once your induction tutor has reported your chosen training option to DfE. [Learn about induction tutors and how they report your training option to DfE](/nominate-induction-tutor/).
 
 ## Option 3: design and deliver your own training
 
