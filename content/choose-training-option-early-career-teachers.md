@@ -9,9 +9,9 @@ Applies to England
 $CTA
 
 
-To set up training for your early career teachers, you need to choose a training option. 
+To set up training for your early career teachers, you need to choose a training option.
 
-Once you've done this, your induction tutor needs to report your chosen option to the Department for Education (DfE). [Learn about induction tutors and how they report information to DfE](/nominate-induction-tutor/).
+
 
 ^There are also other steps to [set up training for your early career teachers](/set-up-training-for-your-early-career-teachers).^
 
@@ -22,19 +22,18 @@ Providers work with delivery partners such as trusts, teaching school hubs and u
 
 This is fully funded by the Department for Education, so there's no cost for eligible schools. [Learn about funding for training based on the early career framework](https://www.gov.uk/guidance/funding-and-eligibility-for-ecf-based-training).
 
-To choose this option, contact your chosen provider. You can choose from the following providers:
+Sign up with one of the following providers by contacting them:
 
 * [Ambition Institute](https://www.ambition.org.uk/programmes/early-career-teachers/?utm_source=dfe&utm_medium=pr%2Fwebsite&utm_content=NRO+announcement&utm_campaign=ECT-Marketing-2021)
 * [Best Practice Network (home of Outstanding Leaders Partnership)](https://www.bestpracticenet.co.uk/early-career-framework)
-give-teachers-best-start-our-early-career-framework-programme)
 * [Education Development Trust](https://www.educationdevelopmenttrust.com/ecf)
 * [National Institute of Teaching, founded by the School-Led Development Trust](https://niot.org.uk/programmes/early-career-teachers)
 * [Teach First](https://www.teachfirst.org.uk/early-career-framework)
 * [UCL Institute of Education](https://www.ucl.ac.uk/ioe-early-career-framework)
 
-Your provider will let the Department for Education know that you signed up with them.
+Your induction tutor also needs to report that you're chosing this option. [Learn about induction tutors and how they report information to DfE](/nominate-induction-tutor/).
 
-Providers may require face to face sessions as part of their training for early career teachers, so you should talk to providers to check where they're based. 
+Providers may require face to face sessions as part of their training for early career teachers, so you should talk to them to check where they're based. 
 
 ## Option 2: deliver your own training using DfE-accredited materials
 
@@ -51,7 +50,7 @@ Your [appropriate body](/appoint-an-appropriate-body-early-career-teachers) will
 
 Before you choose this option you may want to see the training materials. Create a '[Support for early career teachers](https://support-for-early-career-teachers.education.gov.uk/users/sign-up)' account to view them.
 
-Your ECTs and mentors will be invited to access the materials once your induction tutor has reported your chosen training option to DfE. [Learn about induction tutors and how they report your training option to DfE](/nominate-induction-tutor/).
+Your induction tutor also needs to report that you’re chosing this option. [Learn about induction tutors and how they report information to DfE](/nominate-induction-tutor/). Once they've done this, your ECTs and mentors will be invited to access the training materials.
 
 ## Option 3: design and deliver your own training
 
