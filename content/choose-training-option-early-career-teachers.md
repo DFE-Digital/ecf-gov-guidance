@@ -24,7 +24,7 @@ To choose this option, contact your chosen provider. You can choose from the fol
 
 * [Ambition Institute](https://www.ambition.org.uk/programmes/early-career-teachers/?utm_source=dfe&utm_medium=pr%2Fwebsite&utm_content=NRO+announcement&utm_campaign=ECT-Marketing-2021)
 * [Best Practice Network (home of Outstanding Leaders Partnership)](https://www.bestpracticenet.co.uk/early-career-framework)
-* [Capita with lead academic partner the University of Birmingham](https://www.capita.com/expertise/give-teachers-best-start-our-early-career-framework-programme)
+give-teachers-best-start-our-early-career-framework-programme)
 * [Education Development Trust](https://www.educationdevelopmenttrust.com/ecf)
 * [National Institute of Teaching, founded by the School-Led Development Trust](https://niot.org.uk/programmes/early-career-teachers)
 * [Teach First](https://www.teachfirst.org.uk/early-career-framework)

@@ -17,19 +17,16 @@ Early career teachers are entitled to mentor support throughout their 2-year ind
 
 ## What mentors do
 
-Mentors ensure your early career teachers receive a high quality induction.
+Mentors ensure your early career teachers receive a high quality induction. They:
 
-They meet regularly with early career teachers to provide support and feedback.
+* meet regularly with early career teachers to provide support and feedback
+* take prompt, appropriate action if their early career teacher is experiencing difficulties
 
-They also take prompt, appropriate action if their early career teacher is experiencing difficulties.
-
-If you use a provider to deliver your [training for early career teachers](/choose-training-option-early-career-teachers/), mentors may also be asked to observe your early career teachers.
-
-This is for professional development purposes and must not be used for formal assessment.
+If you use a provider to deliver your [training for early career teachers](/choose-training-option-early-career-teachers/), mentors may also be asked to observe your early career teachers. This is for professional development purposes and must not be used for formal assessment.
 
 Read about the role and responsibilities of mentors in section 5 of the [statutory guidance on induction for early career teachers](https://www.gov.uk/government/publications/induction-for-early-career-teachers-england).
 
-Share the [guidance for mentors](https://www.gov.uk/guidance/guidance-for-mentors-how-to-support-ecf-based-training) to help your mentors understand their role.
+Share the [guidance for mentors](https://www.gov.uk/guidance/guidance-for-mentors-how-to-support-ecf-based-training) to help them understand their role.
 
 
 ## Who to choose as a mentor
