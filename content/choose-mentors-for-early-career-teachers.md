@@ -9,7 +9,9 @@ Applies to England
 $CTA
 
 
-To set up training for your early career teachers, you need to arrange mentoring for them. They're entitled to mentor support throughout their 2-year induction period.
+To set up training for your early career teachers, you need to arrange mentoring for them. 
+
+Early career teachers are entitled to mentor support throughout their 2-year induction period.
 
 ^There are also other steps to [set up training for your early career teachers](/set-up-training-for-your-early-career-teachers).^
 
@@ -20,6 +22,10 @@ Mentors ensure your early career teachers receive a high quality induction.
 They meet regularly with early career teachers to provide support and feedback.
 
 They also take prompt, appropriate action if their early career teacher is experiencing difficulties.
+
+If you use a provider to deliver your [training for early career teachers](/choose-training-option-early-career-teachers/), mentors may also be asked to observe your early career teachers.
+
+This is for professional development purposes and must not be used for formal assessment.
 
 Read about the role and responsibilities of mentors in section 5 of the [statutory guidance on induction for early career teachers](https://www.gov.uk/government/publications/induction-for-early-career-teachers-england).
 
@@ -44,17 +50,15 @@ Ensure your mentors have enough time to meet with their early career teachers re
 
 Schools receive [funding](https://www.gov.uk/guidance/funding-and-eligibility-for-ecf-based-training) to cover mentor time off timetable.
 
-## Mentor training and observations
+## Mentor training
 
 If you use a training provider to deliver [training for your early career teachers](/choose-training-option-early-career-teachers), mentors will be given 36 hours of mentor training over 2 years. 
 
 Schools receive funding for 36 hours of mentor time off timetable if mentors attend this training. [Learn more about funding](https://www.gov.uk/guidance/funding-and-eligibility-for-ecf-based-training).
 
+Mentors can only do this training and recieve funded time off timetable for this training once. However, they can keep being a mentor as many times as they like.
+
 Mentors can continue their training even if their early career teacher [transfers school](/transferring-early-career-teachers) or withdraws part-way through their induction.
-
-Mentors may also be asked to observe your early career teachers. 
-
-This is for professional development purposes and must not be used for formal assessment.
 
 ## Register mentors
 
