@@ -11,6 +11,8 @@ $CTA
 
 To set up training for your early career teachers, you need to choose a training option. 
 
+Once you've done this, your induction tutor needs to report your chosen option to the Department for Education (DfE). [Learn about induction tutors and how they report information to DfE](/nominate-induction-tutor/).
+
 ^There are also other steps to [set up training for your early career teachers](/set-up-training-for-your-early-career-teachers).^
 
 
@@ -47,7 +49,9 @@ You'll chose materials from one of the following suppliers:
 
 Your [appropriate body](/appoint-an-appropriate-body-early-career-teachers) will check your programme to make sure it covers the full depth of the early career framework.
 
-To access and compare the training materials, visit '[Support for early career teachers](https://support-for-early-career-teachers.education.gov.uk/)'.
+Before you choose this option you may want to see the training materials. Create a '[Support for early career teachers](https://support-for-early-career-teachers.education.gov.uk/users/sign-up)' account to view them.
+
+Your ECTs and mentors will be given access to the materials once your induction tutor has reported your chosen training option to DfE. [Learn about induction tutors and how they report your training option to DfE](/nominate-induction-tutor/).
 
 ## Option 3: design and deliver your own training
 
@@ -55,10 +59,5 @@ You can design and deliver your own 2-year training programme based on the [earl
 
 Your [appropriate body](/appoint-an-appropriate-body-early-career-teachers) will check your programme to make sure it covers the early career framework.
 
-## Report your training option
-
-Your induction tutor needs to report your chosen training option through ‘[Manage training for early careers teachers](https://manage-training-for-early-career-teachers.education.gov.uk/)’.
-
-[Find out about induction tutors](/nominate-induction-tutor), including and how to sign in to 'Manage training for early career teachers'.
 
 ^Avoid changing your training option part-way through induction. [How to make changes to early career training](/make-changes-to-early-career-training-programme).^
