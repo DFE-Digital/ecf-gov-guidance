@@ -33,24 +33,22 @@ Sign up with one of the following providers by contacting them:
 
 Your induction tutor also needs to report that you're chosing this option. [Learn about induction tutors and how they report information to DfE](/nominate-induction-tutor/).
 
-Providers may require face to face sessions as part of their training for early career teachers, so you should talk to them to check where they're based. 
+Providers may require face to face sessions as part of their training for early career teachers, so you should check where they're based. 
 
 ## Option 2: deliver your own training using DfE-accredited materials
 
-Your early career teachers and mentors will have access to DfE-accredited materials such as self-directed study materials and guidelines for mentor sessions.
+Create a '[Support for early career teachers](https://support-for-early-career-teachers.education.gov.uk/users/sign-up)' account to view DfE-accredited materials including mentor session guidelines and self-directed study materials. 
 
-You'll chose materials from one of the following suppliers:
+You can choose materials from one of the following suppliers:
 
 * Ambition Institute
 * Education Development Trust
 * Teach First
 * UCL Early Career Teacher Consortium
 
+Your induction tutor needs to report that you’re choosing to deliver your own training using DfE-accredited materials. [Learn about induction tutors and how they report information to DfE](/nominate-induction-tutor/). Once they've done this, your ECTs and mentors will be invited to access the training materials.
+
 Your [appropriate body](/appoint-an-appropriate-body-early-career-teachers) will check your programme to make sure it covers the full depth of the early career framework.
-
-Before you choose this option you may want to see the training materials. Create a '[Support for early career teachers](https://support-for-early-career-teachers.education.gov.uk/users/sign-up)' account to view them.
-
-Your induction tutor also needs to report that you’re chosing this option. [Learn about induction tutors and how they report information to DfE](/nominate-induction-tutor/). Once they've done this, your ECTs and mentors will be invited to access the training materials.
 
 ## Option 3: design and deliver your own training
 
