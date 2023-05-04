@@ -32,11 +32,13 @@ To enable them to do this, nominate your induction tutor.
 
 ## Nominate your induction tutor
 
-Nominate your induction tutor through ‘Manage training for early careers teachers’.
+If you've never nominated an induction tutor before, [send your school a link to use 'Manage training for early career teachers'](https://manage-training-for-early-career-teachers.education.gov.uk/nominations/resend-email).
 
-If your school is new to the service, [send your school a link to use the service](https://manage-training-for-early-career-teachers.education.gov.uk/nominations/resend-email).
+You'll receive an email to your school's email address as recorded in the Get Information about Schools (GIAS) register. You'll be asked to confirm whether early career teachers are starting and to nominate an induction tutor. 
 
-Once you've nominated an induction tutor, they'll be invited to sign in to ‘[Manage training for early careers teachers](https://manage-training-for-early-career-teachers.education.gov.uk/)’ to report information about your training.
+Once you've done this, your induction tutor will be invited to sign in to ‘[Manage training for early careers teachers](https://manage-training-for-early-career-teachers.education.gov.uk/)’ to report information about your training.
+
+If you've had induction tutors before, they can sign in to 'Manage training for early career teachers' to change the induction tutor.
 
 ## Who to nominate
 

@@ -31,7 +31,7 @@ Sign up with one of the following lead providers by contacting them:
 * [Teach First](https://www.teachfirst.org.uk/early-career-framework)
 * [UCL Institute of Education](https://www.ucl.ac.uk/ioe-early-career-framework)
 
-Your induction tutor also needs to report that you're chosing this option. [Learn about induction tutors and how they report information to DfE](/nominate-induction-tutor/).
+Your induction tutor also needs to report that you're choosing this option. [Learn about induction tutors and how they report information to DfE](/nominate-induction-tutor/).
 
 Providers may require face to face sessions as part of their training for early career teachers, so you should check where they're based. 
 
@@ -52,9 +52,13 @@ Your [appropriate body](/appoint-an-appropriate-body-early-career-teachers) will
 
 ## Option 3: design and deliver your own training
 
-You can design and deliver your own 2-year training programme based on the [early career framework](https://www.gov.uk/government/publications/early-career-framework).
+You can design and deliver your own 2-year training programme covering every 'learn that' and 'learn how to' statement in the [early career framework](https://www.gov.uk/government/publications/early-career-framework). 
 
-Your [appropriate body](/appoint-an-appropriate-body-early-career-teachers) will check your programme to make sure it covers the early career framework.
+You can use DfE-accredited training materials for reference. Create a ‘[Support for early career teachers](https://support-for-early-career-teachers.education.gov.uk/users/sign-up)’ account to view DfE-accredited materials including mentor session guidelines and self-directed study materials.
+
+Talk to your [appropriate body](/appoint-an-appropriate-body-early-career-teachers) for advice on next steps.
+
+Your appropriate body will check your programme to make sure it covers the early career framework.
 
 
 ^Avoid changing your training option part-way through induction. [How to make changes to early career training](/make-changes-to-early-career-training-programme).^
