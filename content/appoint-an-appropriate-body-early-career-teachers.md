@@ -30,7 +30,7 @@ Unless you use a training provider to deliver [training for your early career te
 
 Your appropriate body can also give advice if your early career teachers are serving a reduced or part time induction. They'll need to agree to any reduction to the induction period.
 
-## Appoint an appropriate body
+## Find an appropriate body
 
 [Find an appropriate body](https://www.gov.uk/government/publications/statutory-teacher-induction-appropriate-bodies/find-an-appropriate-body) and contact them to appoint them.
 
