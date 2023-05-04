@@ -32,9 +32,9 @@ If they have concerns about their statutory entitlements to time off timetable a
 
 You need to give your early career teachers the contact details of a named person at your appropriate body when they start their induction.
 
-## Reduced or part time inductions
+## Reduced inductions
 
-If your early career teachers are serving a reduced or part time induction period, they do not need to cover the full depth of the early career framework. 
+If your early career teachers are serving a reduced induction period, they do not need to cover the full depth of the early career framework. 
 
 Work with your [induction tutor](/nominate-induction-tutor), training provider (if you use one) and your [appropriate body](/appoint-an-appropriate-body-early-career-teachers) to ensure training and support is appropriate.
 

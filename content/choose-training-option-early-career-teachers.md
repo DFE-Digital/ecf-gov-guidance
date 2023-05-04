@@ -16,13 +16,13 @@ To set up training for your early career teachers, you need to choose a training
 ^There are also other steps to [set up training for your early career teachers](/set-up-training-for-your-early-career-teachers).^
 
 
-## Option one: use a provider 
+## Option one: use a lead provider 
 
-Providers work with delivery partners such as trusts, teaching school hubs and universities to deliver training directly to your early career teachers and mentors. 
+Lead providers work with delivery partners such as trusts, teaching school hubs and universities to deliver training directly to your early career teachers and mentors. 
 
 This is fully funded by the Department for Education, so there's no cost for eligible schools. [Learn about funding for training based on the early career framework](https://www.gov.uk/guidance/funding-and-eligibility-for-ecf-based-training).
 
-Sign up with one of the following providers by contacting them:
+Sign up with one of the following lead providers by contacting them:
 
 * [Ambition Institute](https://www.ambition.org.uk/programmes/early-career-teachers/?utm_source=dfe&utm_medium=pr%2Fwebsite&utm_content=NRO+announcement&utm_campaign=ECT-Marketing-2021)
 * [Best Practice Network (home of Outstanding Leaders Partnership)](https://www.bestpracticenet.co.uk/early-career-framework)
